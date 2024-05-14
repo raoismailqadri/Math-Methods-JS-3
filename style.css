@@ -1,0 +1,74 @@
+.head{
+    margin-top: 10px;
+    border: 1px solid rgb(86, 31, 31);
+    width: 60%;
+    height: 50px;
+    background: rgb(244, 160, 86);
+    margin-left: 10px;
+}
+.ke{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    border: 1px soild black;
+    width: 800px;
+    height: 450px;
+    background: linear-gradient(45deg,rgb(250, 193, 144),rgb(157, 157, 244));
+    margin-top: 0%;
+}
+   
+ .customer{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+    
+
+ .account{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+    
+
+ .unit{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+
+ .bill{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+ .rate{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+ .amount{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+ .surcharge{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+ .late{
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+    font-size: x-large;
+ }
+   
